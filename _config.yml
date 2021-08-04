@@ -27,7 +27,7 @@ archive_type: 'monthly'
 show_count: false
 
 # Miscellaneous
-google_analytics:
+google_analytics: G-MZCPTY1J9T
 gauges_analytics:
 # favicon links are in header.ejs
 # favicon: /favicon.png
