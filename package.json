@@ -9,5 +9,7 @@
     "grunt-git": "^1.0.14",
     "load-grunt-tasks": "^5.1.0"
   },
-  "dependencies": {}
+  "dependencies": {
+    "hexo-cookieconsent": "^1.0.0"
+  }
 }
